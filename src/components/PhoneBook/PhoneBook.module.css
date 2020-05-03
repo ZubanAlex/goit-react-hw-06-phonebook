@@ -1,0 +1,12 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 30px;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+  margin-bottom: 20px;
+  color: #3645ab;
+  font-size: 40px;
+}
